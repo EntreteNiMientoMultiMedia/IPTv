@@ -1,6 +1,7 @@
 ﻿#EXTM3U
 
 #EXTINF:-1 tvg-id="VVin.co@SD" tvg-logo="https://es.wikipedia.org/wiki/América_Televisión_(Perú)#/media/Archivo:América_Televisión.svg.png" group-title="Servicio de InterNet y Televisión de Collique para el mundo",VVin
+https://live.obslivestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://es.wikipedia.org/wiki/América_Televisión_(Perú)#/media/Archivo:América_Televisión.svg.png" group-title="Perú Abierto",America Television (1080p)
 http://38.183.182.166:8000/play/a0rb/index.m3u8
@@ -228,3 +229,4 @@ https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="Noticias",RT en Español (1080p) [Geo-blocked]
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
