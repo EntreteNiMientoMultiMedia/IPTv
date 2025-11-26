@@ -5,9 +5,9 @@
 
 
 
-#EXTINF:-1 tvg-id="AnimeVision.es@SD" tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="Anime",Anime Vision (1080p)
+#EXTINF:-1 tvg-id="AnimeVision.es@SD" tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="Anime",Anime Vision 🇯🇵
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-#EXTINF:-1 tvg-id="AnimeVisionClassics.es@SD" tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Anime",Anime Vision Classics (1080p)
+#EXTINF:-1 tvg-id="AnimeVisionClassics.es@SD" tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Anime",Anime Vision Classics 🇯🇵
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 #EXTINF:-1 tvg-id="OnegaiSport.es@SD" tvg-logo="https://static.wikia.nocookie.net/ippo/images/7/79/Hajime_no_Ippo_Logo.png" group-title="Anime" group-title="Deportes",Onegai Deportes 🥊
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
@@ -275,5 +275,6 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 https://contvanime-roku-ingest.cinedigm.com/master.m3u8
 #EXTINF:0,Xtrema Anime (360p) group-title="Anime"
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+
 
 
