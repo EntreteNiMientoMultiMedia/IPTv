@@ -93,6 +93,9 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
 #EXTINF:-1 tvg-id="CanalIPE.pe@SD" tvg-logo="https://www.canalipe.gob.pe/sites/default/themes/concise_drupal/static/media/header/logo.png" group-title="Perú Nacional",Canal IPE 🇵🇪 (EviKiti)
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
+#EXTINF:-1 tvg-id="CanalIPE.pe@SD" tvg-logo="https://www.canalipe.gob.pe/sites/default/themes/concise_drupal/static/media/header/logo.png" group-title="Perú Nacional",Canal IPE 🇵🇪 (Econo)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/IPE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DIPE_stream_ft&_cdn_session=3416325835&_cdn_token=74c6b92a977101eb734e69e053e7006e8b5e3ecf
+
 
 
 
@@ -290,6 +293,7 @@ https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Noticias",RT en Español 🇷🇺
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
 
 
 
