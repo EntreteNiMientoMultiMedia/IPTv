@@ -7,19 +7,21 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g/200h.png" group-title="Perú Abierto",América 🇵🇪
 http://38.183.182.166:8000/play/a0rb/index.m3u8
+#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g/200h.png" group-title="Perú Abierto",América 🇵🇪
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe@SD" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Perú Abierto",Andina
-https://d19e55ehz2il4i.cloudfront.net/index.m3u8?PlaylistM3UCL
+https://d19e55ehz2il4i.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Perú Abierto",Andina Sur
-https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
+https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe@SD" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Perú Abierto",Andina+
-https://d1svme839xkbsn.cloudfront.net/index.m3u8?PlaylistM3UCL
+https://d1svme839xkbsn.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="ATV.pe@SD" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Perú Abierto",Andina | PE
+#EXTINF:-1 tvg-id="ATV.pe@SD" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Perú Abierto",Andina
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Perú Abierto",Andina Sur | PE
+#EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Perú Abierto",Andina Sur
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="ATVPlus.pe@SD" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Perú Abierto",Andina+ | PE
+#EXTINF:-1 tvg-id="ATVPlus.pe@SD" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Perú Abierto",Andina+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Perú Abierto",Latina (VVin) 🇵🇪
@@ -34,6 +36,8 @@ https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Perú Abierto",Panamericana 🇵🇪
 http://38.183.182.166:8000/play/a0ii/index.m3u8
+#EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Perú Abierto",Panamericana 🇵🇪
+https://cdnhd.iblups.com/hls/ptv5.m3u8
 
 #EXTINF:-1 tvg-id="GolPeru.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_golperu.png" group-title="Perú Deportes",Gol Peru (1080p)
 http://38.183.182.166:8000/play/a120/index.m3u8
@@ -855,5 +859,6 @@ https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20M
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2025%20-%20La%20Vida%20es%20Dif%C3%ADcil.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/super-mario-logo-A8E04F3EC2-seeklogo.com.png" group-title="Las aventuras de los Super Hermanos Mario",Las aventuras de los Super Hermanos Mario - E26 La Amenaza Venecia
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2026%20-%20La%20Amenaza%20Venecia.mp4
+
 
 
