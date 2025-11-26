@@ -12,7 +12,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
 #EXTINF:-1 tvg-id="Onegai2.es@SD" tvg-logo="https://poluxweb.com/Polux3/images/data/television/2022/enero/10-anime-onegai.jpg" group-title="Anime",Onegai 2 🇯🇵
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
-#EXTINF:-1 tvg-id="Onegai3.es@SD" tvg-logo="https://www.razon.com.mx/resizer/v2/XZ7HRVQUDFE6PMXHNKJ3HNNA7E.png" group-title="Anime",Onegai 3 🇯🇵
+#EXTINF:-1 tvg-id="Onegai3.es@SD" tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2022/04/Anime-Onegai-por-Animeka-Lanzamiento-900x506.jpg" group-title="Anime",Onegai 3 🇯🇵
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
 #EXTINF:-1 tvg-id="Onegai5.es@SD" tvg-logo="https://ladyotaku.pe/wp-content/uploads/2020/09/anime-onegai-816x544.jpg" group-title="Anime",Onegai 5 🇯🇵
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
@@ -280,6 +280,7 @@ https://contvanime-roku-ingest.cinedigm.com/master.m3u8
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 #EXTINF:0,Anime Zone TV group-title="Anime"
 http://animezonetv.net/hls/stream.m3u8
+
 
 
 
