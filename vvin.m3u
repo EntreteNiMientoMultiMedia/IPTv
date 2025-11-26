@@ -8,13 +8,13 @@ https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 #EXTINF:-1 tvg-id="OnegaiSport.es@SD" tvg-logo="https://static.wikia.nocookie.net/ippo/images/7/79/Hajime_no_Ippo_Logo.png" group-title="Anime",Onegai Deportes 🥊
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
-#EXTINF:-1 tvg-id="Onegai1.es@SD" tvg-logo="https://images2-megamedia.cdn.mdstrm.com/etcetera/2022/04/19/17971_1_625f25ae28245.jpg" group-title="Anime",Onegai 1 🇯🇵
+#EXTINF:-1 tvg-id="Onegai1.es@SD" tvg-logo="https://nosomosnonos.com/wp-content/uploads/2024/11/mininya-1.jpg" group-title="Anime",Onegai 1 🇯🇵
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
-#EXTINF:-1 tvg-id="Onegai2.es@SD" tvg-logo="https://poluxweb.com/Polux3/images/data/television/2022/enero/10-anime-onegai.jpg" group-title="Anime",Onegai 2 🇯🇵
+#EXTINF:-1 tvg-id="Onegai2.es@SD" tvg-logo="https://ladyotaku.pe/wp-content/uploads/2020/09/anime-onegai-816x544.jpg" group-title="Anime",Onegai 2 🇯🇵
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
-#EXTINF:-1 tvg-id="Onegai3.es@SD" tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2022/04/Anime-Onegai-por-Animeka-Lanzamiento-900x506.jpg" group-title="Anime",Onegai 3 🇯🇵
+#EXTINF:-1 tvg-id="Onegai3.es@SD" tvg-logo="https://poluxweb.com/Polux3/images/data/television/2022/enero/10-anime-onegai.jpg" group-title="Anime",Onegai 3 🇯🇵
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
-#EXTINF:-1 tvg-id="Onegai5.es@SD" tvg-logo="https://ladyotaku.pe/wp-content/uploads/2020/09/anime-onegai-816x544.jpg" group-title="Anime",Onegai 5 🇯🇵
+#EXTINF:-1 tvg-id="Onegai5.es@SD" tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2022/04/Anime-Onegai-por-Animeka-Lanzamiento-900x506.jpg" group-title="Anime",Onegai 5 🇯🇵
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
 #EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="Anime", ZTV Anime | CL
 https://mitv.zplay.cl/Ztv/index.m3u8
@@ -280,6 +280,7 @@ https://contvanime-roku-ingest.cinedigm.com/master.m3u8
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 #EXTINF:0,Anime Zone TV group-title="Anime"
 http://animezonetv.net/hls/stream.m3u8
+
 
 
 
