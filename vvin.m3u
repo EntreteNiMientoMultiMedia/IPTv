@@ -1,14 +1,14 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-id="VVin.co@SD" tvg-logo="https://win.pe/img/logo-oct.png" group-title="InterNet📡 y TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",VVin
+#EXTINF:-1 tvg-id="VVin.co@SD" tvg-logo="https://win.pe/img/logo-oct.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",VVin
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
 
 
 
 
-#EXTINF:-1 tvg-id="AnimeVision.es@SD" tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="Anime 🇯🇵 🇵🇪",Anime Vision
+#EXTINF:-1 tvg-id="AnimeVision.es@SD" tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="Anime 🇯🇵 🇵🇪",Anime Visión
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-#EXTINF:-1 tvg-id="AnimeVisionClassics.es@SD" tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Anime 🇯🇵 🇵🇪",Anime Vision Classics
+#EXTINF:-1 tvg-id="AnimeVisionClassics.es@SD" tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Anime 🇯🇵 🇵🇪",Anime Visión Clásicos
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 #EXTINF:-1 tvg-id="Onegai1.es@SD" tvg-logo="https://nosomosnonos.com/wp-content/uploads/2024/11/mininya-1.jpg" group-title="Anime 🇯🇵 🇵🇪",Onegai 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
@@ -62,11 +62,10 @@ https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_720p/chunks.
 #EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="ATV Sur 🇵🇪 ",Andina Sur 💸 1024x576p
 
 #EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="ATV Sur 🇵🇪 ",Andina Sur 💸 
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ATVSUR/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVSUR_stream_5h&_cdn_session=3407109477&_cdn_token=2ebfec35563c148c64b975b8832858e41d0b89a3
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ATVSUR/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVSUR_stream_5h&_cdn_session=3407154741&_cdn_token=1c66eb564021ca213a790b32ba679ad552fcad44
 #EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="ATV Sur 🇵🇪 ",Andina Sur 💸 
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATVSUR/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVSUR_stream_5h&_cdn_session=3407117693&_cdn_token=5506d7446c88eaef6479f60be0bf2245a4a6a353
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATVSUR/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVSUR_stream_5h&_cdn_session=3407162317&_cdn_token=cb6725cca13803c62de6f187ed22a06f5538098c
 #EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="ATV Sur 🇵🇪 ",Andina Sur 💸 
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ATVSUR/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVSUR_stream_5h&_cdn_session=3407126133&_cdn_token=3ba0416f5474b4046035f2764af6196e64bfd759
 #EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="ATV Sur 🇵🇪 ",Andina Sur 💸 
 #EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="ATV Sur 🇵🇪 ",Andina Sur 💸 
 #EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="ATV Sur 🇵🇪 ",Andina Sur 💸 
@@ -319,6 +318,7 @@ https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Noticias",RT en Español 🇷🇺
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
 
 
 
