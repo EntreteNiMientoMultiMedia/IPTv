@@ -62,10 +62,10 @@ https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_720p/chunks.
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ATVSUR/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVSUR_stream_5h&_cdn_session=3407126133&_cdn_token=3ba0416f5474b4046035f2764af6196e64bfd759
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATVSUR/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVSUR_stream_5h&_cdn_session=3407162317&_cdn_token=cb6725cca13803c62de6f187ed22a06f5538098c
 
-#EXTINF:-1 tvg-id="LaTele.pe@SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_la-tele_m.png" group-title=" ATV 🇵🇪 ",La Tele 🇻🇳 1024x576p
+#EXTINF:-1 tvg-id="LaTele.pe@SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_la-tele_m.png" group-title="AlbaVisión 🇵🇪 ",La Tele 🇻🇳 1024x576p
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
-#EXTINF:-1 tvg-id="Global.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/LogoGlobalTV.png" group-title=" ATV 🇵🇪 " ",Global 🇻🇳 1280x720p
+#EXTINF:-1 tvg-id="Global.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/LogoGlobalTV.png" group-title="AlbaVisión 🇵🇪 " ",Global 🇻🇳 1280x720p
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8?uid=12051151
 
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Latina 🇵🇪 ",Latina ✅✔️ 1920x1080p
@@ -369,6 +369,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
