@@ -343,6 +343,8 @@ https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="SpaceJam.es@SD" tvg-logo="" group-title="Películas",Space Jam
+https://tv360.bitel.com.pe/public/v1/log/watchlog?sq=H%2FdPiBsOqo75psM1aGbqiulROOXyKvwBm0tSuTsMP%2FyM2t5ve12qr95Ii8EfVkd%2F&secured=true
 
 
 
