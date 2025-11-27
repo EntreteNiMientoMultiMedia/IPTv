@@ -65,7 +65,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATVSUR/10-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="LaTele.pe@SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_la-tele_m.png" group-title=" ATV 🇵🇪 ",La Tele 🇻🇳 1024X576p
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
-#EXTINF:-1 tvg-id="Global.pe@SD" tvg-logo="" group-title=" ATV 🇵🇪 " ",Global 🇻🇳 1280x720p
+#EXTINF:-1 tvg-id="Global.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/960px-Global_logo_2019.png" group-title=" ATV 🇵🇪 " ",Global 🇻🇳 1280x720p
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8?uid=12051151
 
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Latina 🇵🇪 ",Latina ✅✔️ 1920x1080p
@@ -369,6 +369,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
