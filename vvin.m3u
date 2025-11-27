@@ -122,7 +122,6 @@ https://d2qsan2ut81n2k.cloudfront.net/live/1dedd057-0bc1-44a7-a747-bd52e12166b3/
 https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="ATV Sur 🇵🇪 ",Andina Sur 💸 640x360p
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ATVSUR/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVSUR_stream_5h&_cdn_session=3407126133&_cdn_token=3ba0416f5474b4046035f2764af6196e64bfd759
-#EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="ATV Sur 🇵🇪 ",Andina Sur 💸 640x360p
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATVSUR/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVSUR_stream_5h&_cdn_session=3407162317&_cdn_token=cb6725cca13803c62de6f187ed22a06f5538098c
 
 #EXTINF:-1 tvg-id="LatinaNoticias.pe@SD" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Latina Noticias",Latina Noticias ✅✔️ 1920x1080p
@@ -331,6 +330,7 @@ https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Noticias",RT en Español 🇷🇺
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
 
 
 
