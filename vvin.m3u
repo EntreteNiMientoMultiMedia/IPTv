@@ -124,15 +124,20 @@ https://live-evg11.tv360.bitel.com.pe/bitel/latinanoticias_abr/bitel/latinanotic
 #EXTINF:-1 tvg-id="LatinaNoticias.pe@SD" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Latina Noticias",Latina Noticias 💸 1280x720p
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINANOTI/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINANOTI_stream_er&_cdn_session=3407351509&_cdn_token=b507c28e8a595c6b4e06161d1c2983b1b48255ac
 #EXTINF:-1 tvg-id="LatinaNoticias.pe@SD" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Latina Noticias",Latina Noticias 💸 1024x576p
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINANOTI/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINANOTI_stream_er&_cdn_session=3407367909&_cdn_token=31e09ad34d1edc216f414b3753e49b344c04c93c
+
 #EXTINF:-1 tvg-id="LatinaNoticias.pe@SD" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Latina Noticias",Latina Noticias ❓❔ 1920x1080p
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Perú Abierto",Latina Noticias 💸
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/LATINANOTI/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINANOTI_stream_er&_cdn_session=3407386717&_cdn_token=0bea828b91fee3337ba98e456f83067485a4c4f0
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Perú Abierto",Latina Noticias 💸
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINANOTI/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINANOTI_stream_er&_cdn_session=3419782635&_cdn_token=de41eec90874525829ff25e196388e77efe5ae97
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Perú Abierto",Latina Noticias 💸
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/LATINANOTI/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINANOTI_stream_er&_cdn_session=3419791539&_cdn_token=31f7d0cfb9f1d267020dc7ba4130661512e96697
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Perú Abierto",Latina Noticias 💸
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINANOTI/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINANOTI_stream_er&_cdn_session=3419799467&_cdn_token=48bd1cd1122d990ba02d3144614acf3115bc830a
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Perú Abierto",Latina Noticias 💸
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINANOTI/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINANOTI_stream_er&_cdn_session=3419806187&_cdn_token=cc11fba25b0047db04b192250013d4e5bd387938
 
 #EXTINF:-1 tvg-id="LatinaClasicos.pe@SD" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Latina Clásicos",Latina Clasicos ✅✔️ 1920x1080p
 https://jireh-6-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream0/chunks.m3u8?dpssid=b24900835076927a23736b54&sid=ba5t1l1xb217436165296927a2389e5f1&ndvc=0
@@ -329,6 +334,7 @@ https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Noticias",RT en Español 🇷🇺
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
 
 
 
