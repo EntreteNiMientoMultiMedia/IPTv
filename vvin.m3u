@@ -63,13 +63,14 @@ https://live-evg20.tv360.bitel.com.pe/bitel/Panamericana-UDP_abr/bitel/Panameric
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana 💸 1024x576p
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3419909579&_cdn_token=8c9b72175b3c85aa5c9d453a69ae29d911154230
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3420063787&_cdn_token=5631e59a25b1fdf121ccf0577250cae7d391c088
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3420116619&_cdn_token=5f8c0e62252ccc9c8bf981488faa6076e56c4f69
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana ❓❔ 1920x1080p
 http://38.183.182.166:8000/play/a0ii/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana 💸
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3420116619&_cdn_token=5f8c0e62252ccc9c8bf981488faa6076e56c4f69
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3420142803&_cdn_token=fa38a86aae06ad8dd961615320526293e0255511
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana 💸
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana 💸
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana 💸
@@ -331,6 +332,7 @@ https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Noticias",RT en Español 🇷🇺
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
 
 
 
