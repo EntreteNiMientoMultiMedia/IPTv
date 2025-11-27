@@ -79,19 +79,6 @@ http://38.183.182.166:8000/play/a12u/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Tv Perú 🇵🇪 ",TV Peru 💸
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TVPERU/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=3421059683&_cdn_token=82a6fd24ad2199e7682dfddc79b652d66d091ab7
-#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Tv Perú 🇵🇪 ",TV Peru 💸
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TVPERU/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=3421063171&_cdn_token=981f199d01d053b392804a6ae4351a9518643a8a
-#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Tv Perú 🇵🇪 ",TV Peru 💸
-
-#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Tv Perú 🇵🇪 ",TV Peru 💸
-#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Tv Perú 🇵🇪 ",TV Peru 💸
-#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Tv Perú 🇵🇪 ",TV Peru 💸
-
-
-
-
 #EXTINF:-1 tvg-id="ATVPlus.pe@SD" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="ATV+ 🇵🇪 ",Andina+ ✅✔️ 1280x720p
 https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe@SD" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="ATV+ 🇵🇪 ",Andina+ 🇻🇳 1280x720p
@@ -244,3 +231,4 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
