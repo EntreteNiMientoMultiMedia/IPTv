@@ -73,9 +73,9 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/10-hls/live-me
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana 💸
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3421040947&duration=16200&start=1764221400&_cdn_token=a7e9b7f8e21a0919acd9948b83bc806c6068614e
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana 💸
-
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3421043467&duration=16200&start=1764221400&_cdn_token=1cfbb4eca8308f01c9ce1e537aa008a5fbab392c
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana 💸
-
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3421046227&duration=16200&start=1764221400&_cdn_token=8630cc6e2809cb116b57ea4288e865c5507d35b9
 
 
 #EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Perú Nacional",TV Peru 🇵🇪 (EviKiti)
@@ -332,6 +332,7 @@ https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Noticias",RT en Español 🇷🇺
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
 
 
 
