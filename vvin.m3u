@@ -221,16 +221,66 @@ https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
 http://38.183.182.166:8000/play/a13k/index.m3u8
 
 
-
-
+#EXTINF:-1 tvg-id="49Tv.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",49 Tv 🇻🇳 Lambayeque
+#EXTINF:-1 tvg-id="36TvHuacho.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",36Tv Huacho 🇻🇳 La Huacho
+#EXTINF:-1 tvg-id="Albricias.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",AlbriciasTv 🇻🇳 Piura
+#EXTINF:-1 tvg-id="Canal34.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",Canal34 🇻🇳 La Libertad
+#EXTINF:-1 tvg-id="CasmaTv.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",CasmaTv 🇻🇳 La Casma
 #EXTINF:-1 tvg-id="DacTv.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",DacTv 🇻🇳 Cañete
+#EXTINF:-1 tvg-id="RadioUno.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",Radio Uno 🇻🇳 Tacna
 #EXTINF:-1 tvg-id="TiempoRealTv.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",TiempoRealTv 🇻🇳 Lambayeque
+
+#EXTINF:-1 tvg-id="ChinchaTv+.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",ChinchaTv+ Tv 🇻🇳 Chincha
+https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CosiTelPerú.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",CosiTel Perú 🇻🇳 Ica
+https://live-evg18.tv360.bitel.com.pe/bitel/cositel/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Cosmos.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",Cosmos 🇻🇳 La Libertad
+https://live-evg18.tv360.bitel.com.pe/bitel/cosmos/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CVNcTv.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",CVN Tv 🇻🇳 Tumbes
+https://live-evg18.tv360.bitel.com.pe/bitel/cvn/chunks.m3u8
+
+#EXTINF:-1 tvg-id="HuachoTv.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",Huacho Tv.com 🇻🇳 Huacho
+https://live-evg18.tv360.bitel.com.pe/bitel/huacho/chunks.m3u8
+
+#EXTINF:-1 tvg-id="DunasTv.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",DunasTv 🇻🇳 Ica
+https://live-evg18.tv360.bitel.com.pe/bitel/dunastv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="EcoTv.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",Eco 🇻🇳 Ica 1280x720p
 https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/chunks.m3u8
 
+
+#EXTINF:-1 tvg-id="GTv.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",G Tv 🇻🇳 Pisco
+https://live-evg18.tv360.bitel.com.pe/bitel/gtvpiscohls/chunks.m3u8
+
 #EXTINF:-1 tvg-id="NorteñaMix.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",Norteña Mix 🇻🇳 Piura
 https://live-evg11.tv360.bitel.com.pe/bitel/nortenamix/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NZKTeleVisión.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",NZK TeleVisión 🇻🇳 Ica
+https://live-evg5.tv360.bitel.com.pe/bitel/nasca/chunks.m3u8?uid=12051151
+
+#EXTINF:-1 tvg-id="OndaTv.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",OndaTv 🇻🇳 Ica
+https://live-evg5.tv360.bitel.com.pe/bitel/onda/chunks.m3u8?uid=12051151
+
+#EXTINF:-1 tvg-id="PiuraTv.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",PiuraTv 🇻🇳 Piura
+https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/chunks.m3u8?uid=12051151
+
+#EXTINF:-1 tvg-id="RTv.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",R Tv 🇻🇳 Callao
+https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/chunks.m3u8?uid=12051151
+
+#EXTINF:-1 tvg-id="RikuTv.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",RikuTv 🇻🇳 Lambayeque
+https://live-evg7.tv360.bitel.com.pe/bitel/riku/chunks.m3u8?uid=12051151
+
+#EXTINF:-1 tvg-id="SolTv.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",SolTv 🇻🇳 La Libertad
+https://live-evg7.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8?uid=12051151
+
+#EXTINF:-1 tvg-id="TvNorte.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",TvNorte 🇻🇳 La Lambayeque
+https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/chunks.m3u8?uid=12051151
+
+#EXTINF:-1 tvg-id="Vigil45.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",Vigil45 🇻🇳 Tacna
+https://live-evg11.tv360.bitel.com.pe/bitel/vigiltv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="VisionSur.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",Vision Sur 🇻🇳 Arequipa
 https://live-evg11.tv360.bitel.com.pe/bitel/visionsur/chunks.m3u8
@@ -308,6 +358,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
