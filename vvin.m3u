@@ -224,10 +224,10 @@ http://38.183.182.166:8000/play/a13k/index.m3u8
 
 
 
-Para variar 🗿🌊 de la Costa
-Para variar 🗿🌊 de la Costa
-Para variar 🗿🌊 de la Costa
-Para variar 🗿🌊 de la Costa
+#EXTINF: Para variar 🗿🌊 de la Costa
+#EXTINF:-1 Para variar 🗿🌊 de la Costa
+#EXTINF:0 Para variar 🗿🌊 de la Costa
+#EXTINF:+1 Para variar 🗿🌊 de la Costa
 
 
 
@@ -238,18 +238,12 @@ Para variar 🗿🌊 de la Costa
 #EXTINF:-1 tvg-id="Canal34.pe@SD" tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",Canal34 🇻🇳 La Libertad
 #EXTINF:-1 tvg-id="CasmaTv.pe@SD" tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",CasmaTv 🇻🇳 La Casma
 #EXTINF:-1 tvg-id="DacTv.pe@SD" tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",DacTv 🇻🇳 Cañete
+#EXTINF:-1 tvg-id="NorteñaMix.pe@SD" tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",Norteña Mix 🇻🇳 Piura
+#EXTINF:-1 tvg-id="NZKTeleVisión.pe@SD" tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",NZK TeleVisión 🇻🇳 Ica
+#EXTINF:-1 tvg-id="PiuraTv.pe@SD" tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",PiuraTv 🇻🇳 Piura
 #EXTINF:-1 tvg-id="RadioUno.pe@SD" tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",Radio Uno 🇻🇳 Tacna
 #EXTINF:-1 tvg-id="TiempoRealTv.pe@SD" tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",TiempoRealTv 🇻🇳 Lambayeque
 
-
-#EXTINF:-1 tvg-id="NorteñaMix.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763741074740/e0811c27c2dc_480_270.png" group-title="Para variar 🗿🌊 de la Costa",Norteña Mix 🇻🇳 Piura 854x480p
-https://live-evg11.tv360.bitel.com.pe/bitel/nortenamix/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NZKTeleVisión.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763743790170/f61a47ab519a_480_270.png" group-title="Para variar 🗿🌊 de la Costa",NZK TeleVisión 🇻🇳 Ica 1280x720p
-https://live-evg5.tv360.bitel.com.pe/bitel/nasca/chunks.m3u8?uid=12051151
-
-#EXTINF:-1 tvg-id="PiuraTv.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/02/1763755177155/f8bbb2c1dfd6_480_270.png" group-title="Para variar 🗿🌊 de la Costa",PiuraTv 🇻🇳 Piura 1280x720p
-https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/chunks.m3u8?uid=12051151
 
 
 
@@ -485,6 +479,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
