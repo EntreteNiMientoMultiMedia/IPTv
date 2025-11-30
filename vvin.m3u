@@ -241,6 +241,18 @@ Para variar 🗿🌊 de la Costa
 #EXTINF:-1 tvg-id="RadioUno.pe@SD" tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",Radio Uno 🇻🇳 Tacna
 #EXTINF:-1 tvg-id="TiempoRealTv.pe@SD" tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",TiempoRealTv 🇻🇳 Lambayeque
 
+
+#EXTINF:-1 tvg-id="NorteñaMix.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763741074740/e0811c27c2dc_480_270.png" group-title="Para variar 🗿🌊 de la Costa",Norteña Mix 🇻🇳 Piura 854x480p
+https://live-evg11.tv360.bitel.com.pe/bitel/nortenamix/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NZKTeleVisión.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763743790170/f61a47ab519a_480_270.png" group-title="Para variar 🗿🌊 de la Costa",NZK TeleVisión 🇻🇳 Ica 1280x720p
+https://live-evg5.tv360.bitel.com.pe/bitel/nasca/chunks.m3u8?uid=12051151
+
+#EXTINF:-1 tvg-id="PiuraTv.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/02/1763755177155/f8bbb2c1dfd6_480_270.png" group-title="Para variar 🗿🌊 de la Costa",PiuraTv 🇻🇳 Piura 1280x720p
+https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/chunks.m3u8?uid=12051151
+
+
+
 #EXTINF:-1 tvg-id="ChinchaTv+.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/27/02/176418583453/68405e22d4dd_480_270.png" group-title="Para variar 🗿🌊 de la Costa",ChinchaTv+ 🇻🇳 Chincha 1280x720p
 https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
 
@@ -265,17 +277,8 @@ https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/chunks.m3u8
 #EXTINF:-1 tvg-id="GTv.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756394529/5e70bc4bd79c_480_270.png" group-title="Para variar 🗿🌊 de la Costa",G Tv 🇻🇳 Pisco 1280x720p
 https://live-evg18.tv360.bitel.com.pe/bitel/gtvpiscohls/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NorteñaMix.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763741074740/e0811c27c2dc_480_270.png" group-title="Para variar 🗿🌊 de la Costa",Norteña Mix 🇻🇳 Piura 854x480p
-https://live-evg11.tv360.bitel.com.pe/bitel/nortenamix/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NZKTeleVisión.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763743790170/f61a47ab519a_480_270.png" group-title="Para variar 🗿🌊 de la Costa",NZK TeleVisión 🇻🇳 Ica 1280x720p
-https://live-evg5.tv360.bitel.com.pe/bitel/nasca/chunks.m3u8?uid=12051151
-
 #EXTINF:-1 tvg-id="OndaTv.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756370285/975ca986dc17_480_270.png" group-title="Para variar 🗿🌊 de la Costa",OndaTv 🇻🇳 Ica 1280x720p
 https://live-evg5.tv360.bitel.com.pe/bitel/onda/chunks.m3u8?uid=12051151
-
-#EXTINF:-1 tvg-id="PiuraTv.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/02/1763755177155/f8bbb2c1dfd6_480_270.png" group-title="Para variar 🗿🌊 de la Costa",PiuraTv 🇻🇳 Piura 1280x720p
-https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/chunks.m3u8?uid=12051151
 
 #EXTINF:-1 tvg-id="RTv.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/176375678731/b6ba71d76f07_480_270.png" group-title="Para variar 🗿🌊 de la Costa",R Tv 🇻🇳 Callao 1920x1080p
 https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/chunks.m3u8?uid=12051151
@@ -298,10 +301,10 @@ https://live-evg11.tv360.bitel.com.pe/bitel/visionsur/chunks.m3u8
 
 
 
-De los Andes 🌋🏔️🗻 para el mundo 🌎
-De los Andes 🌋🏔️🗻 para el mundo 🌎
-De los Andes 🌋🏔️🗻 para el mundo 🌎
-De los Andes 🌋🏔️🗻 para el mundo 🌎
+"De los Andes 🌋🏔️🗻 para el mundo 🌎"
+"De los Andes 🌋🏔️🗻 para el mundo 🌎"
+"De los Andes 🌋🏔️🗻 para el mundo 🌎"
+"De los Andes 🌋🏔️🗻 para el mundo 🌎"
 
 
 
@@ -482,6 +485,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
