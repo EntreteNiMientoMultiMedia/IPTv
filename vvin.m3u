@@ -221,7 +221,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
 http://38.183.182.166:8000/play/a13k/index.m3u8
 
 
-#EXTINF:-1 tvg-id="49Tv.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",49 Tv 🇻🇳 Lambayeque
+#EXTINF:-1 tvg-id="49Tv.pe@SD" tvg-logo="" group-title="Para variar 🗿🍫🗿 de la Costa",49 Tv 🇻🇳 Lambayeque
 #EXTINF:-1 tvg-id="36TvHuacho.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",36Tv Huacho 🇻🇳 La Huacho
 #EXTINF:-1 tvg-id="Albricias.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",AlbriciasTv 🇻🇳 Piura
 #EXTINF:-1 tvg-id="Canal34.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",Canal34 🇻🇳 La Libertad
@@ -293,13 +293,13 @@ https://live-evg11.tv360.bitel.com.pe/bitel/visionsur/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Peruanisima.pe@SD" tvg-logo="" group-title="De los Andes 🏔️🗻 para el mundo🌎",PeruAniSima 🇻🇳 HuancaYork
+#EXTINF:-1 tvg-id="Peruanisima.pe@SD" tvg-logo="" group-title="De los Andes 🌋⛰️🏔️🗻 para el mundo🌎",PeruAniSima 🇻🇳 HuancaYork
 https://live-evg7.tv360.bitel.com.pe/bitel/peruanisimaSRT/chunks.m3u8?uid=12051151
 
-#EXTINF:-1 tvg-id="TvWanka.pe@SD" tvg-logo="" group-title="De los Andes 🏔️🗻 para el mundo🌎",Tv Wanka 🇻🇳 HuancaYork
+#EXTINF:-1 tvg-id="TvWanka.pe@SD" tvg-logo="" group-title="De los Andes 🌋⛰️🏔️🗻 para el mundo🌎",Tv Wanka 🇻🇳 HuancaYork
 https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/chunks.m3u8
 
-#EXTINF:-1 tvg-id="UniTelTv.pe@SD" tvg-logo="" group-title="De los Andes 🏔️🗻 para el mundo🌎",UniTel Tv 🇻🇳 HuancaYork
+#EXTINF:-1 tvg-id="UniTelTv.pe@SD" tvg-logo="" group-title="De los Andes 🌋⛰️🏔️🗻 para el mundo🌎",UniTel Tv 🇻🇳 HuancaYork
 https://live-evg11.tv360.bitel.com.pe/bitel/uniteltvSRT/chunks.m3u8
 
 
@@ -392,6 +392,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
