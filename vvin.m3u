@@ -223,14 +223,17 @@ http://38.183.182.166:8000/play/a13k/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="DacTv.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",DacTv 🇻🇳 Cañete
+#EXTINF:-1 tvg-id="TiempoRealTv.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",TiempoRealTv 🇻🇳 Lambayeque
 
 #EXTINF:-1 tvg-id="EcoTv.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",Eco 🇻🇳 Ica 1280x720p
 https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/chunks.m3u8
 
+#EXTINF:-1 tvg-id="NorteñaMix.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",Norteña Mix 🇻🇳 Piura
+https://live-evg11.tv360.bitel.com.pe/bitel/nortenamix/chunks.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="VisionSur.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",Vision Sur 🇻🇳 Arequipa
+https://live-evg11.tv360.bitel.com.pe/bitel/visionsur/chunks.m3u8
 
 
 
@@ -242,14 +245,12 @@ https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/chunks.m3u8
 #EXTINF:-1 tvg-id="AmazónicaTv.pe@SD" tvg-logo="" group-title="De la selva su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",AmazónicaTv 🇻🇳 Loreto
 #EXTINF:-1 tvg-id="Arpegio.pe@SD" tvg-logo="" group-title="De la selva su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",Arpegio 🇻🇳 Iquitos
 #EXTINF:-1 tvg-id="BNBTv.pe@SD" tvg-logo="" group-title="De la selva su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",BNB Tv 🇻🇳 Pucallpa
-
 #EXTINF:-1 tvg-id="RioTeleVisión.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",Rio TeleVisión 🇻🇳 Aucayacu
-https://live-evg7.tv360.bitel.com.pe/bitel/riotvSRT/chunks.m3u8?uid=12051151
 
-#EXTINF:-1 tvg-id="CNC.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",CNC 🇻🇳 Iquitos 1280x720p
+#EXTINF:-1 tvg-id="CNC.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830330344/bff3eb521edc_480_270.jpg" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",CNC 🇻🇳 Iquitos 1280x720p
 https://live-evg18.tv360.bitel.com.pe/bitel/cnctvSRT/chunks.m3u8
 
-#EXTINF:-1 tvg-id="DubTv.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",DubTv 🇻🇳 San Martin 1920x1080p
+#EXTINF:-1 tvg-id="DubTv.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/12/22/1747064982280/ee9bc6171aa6_480_270.jpg" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",DubTv 🇻🇳 San Martin 1920x1080p
 https://live-evg18.tv360.bitel.com.pe/bitel/dubtv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Master.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",Master 🇻🇳 Tarapoto 1280x720p
@@ -291,7 +292,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/chunks.m3u8
 #EXTINF:-1 tvg-id="Via.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",Via 🇻🇳 Tarapoto 1280x720p
 https://live-evg11.tv360.bitel.com.pe/bitel/viatvSRT/chunks.m3u8
 
-#EXTINF:-1 tvg-id="YuriVisión.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",YuriVisión 🇻🇳 Loreto 1920x1080p
+#EXTINF:-1 tvg-id="YuriVisión.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/12/22/173401728675/a4cd78baf453_480_270.png" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",YuriVisión 🇻🇳 Loreto 1920x1080p
 https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/chunks.m3u8?uid=12051151
 
 
@@ -307,6 +308,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
