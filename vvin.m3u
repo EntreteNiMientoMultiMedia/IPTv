@@ -90,12 +90,17 @@ http://38.183.182.166:8000/play/a0ii/index.m3u8
 
 #EXTINF: tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Tv Perú 🇵🇪 ",TV Peru ✅✔️ 1920x1080p
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
-#EXTINF: tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Tv Perú 🇵🇪 ",TV Peru 🇻🇳 1280x720p
-https://live-evg20.tv360.bitel.com.pe/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
-#EXTINF: tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Tv Perú 🇵🇪 ",TV Peru 💸 1280x720p
 
-#EXTINF: tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Tv Perú 🇵🇪 ",TV Peru 💸 1024x576p
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763757751768/bf30fc1386f4_480_270.png" group-title="Tv Perú 🇵🇪 ",TV Peru 🇻🇳 1280x720p
+https://live-evg20.tv360.bitel.com.pe/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763757751768/bf30fc1386f4_480_270.png" group-title="Tv Perú 🇵🇪 ",TV Peru 🇻🇳 854x480p
+https://live-evg20.tv360.bitel.com.pe/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_480p/chunks.m3u8
+
+#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FTVPERU.png&width=50&height=50" group-title="Tv Perú 🇵🇪 ",TV Peru 💸 1280x720p
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TVPERU/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=3418553829&_cdn_token=c2d37b6a166c076c841b12027b81f6754a31e6ef
+#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FTVPERU.png&width=50&height=50" group-title="Tv Perú 🇵🇪 ",TV Peru 💸 1024x576p
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TVPERU/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=3416323123&_cdn_token=a6a996c6a1c1a303c3290de1715c6c28e4385d97
+
 #EXTINF: tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="Tv Perú 🇵🇪 ",TV Peru ❓❔ 1920x1080p
 http://38.183.182.166:8000/play/a12u/index.m3u8
 
@@ -580,4 +585,5 @@ https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
 
 #EXTINF================================================================================================================================================================================================================================================================
+
 
