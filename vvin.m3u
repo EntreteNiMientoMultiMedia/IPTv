@@ -279,7 +279,10 @@ https://live-evg11.tv360.bitel.com.pe/bitel/visionsur/chunks.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
+#EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",PeruAniSima 🇻🇳 HuancaYork
+#EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",UniTel Tv 🇻🇳 HuancaYork
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",CadenaTv 🇻🇳 Junin
+#EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",La Cajita Musical 🇻🇳 Junin
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",AndinoTv 🇻🇳 Huaraz
 
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",A Uno 🇻🇳 Puno
@@ -302,15 +305,10 @@ https://live-evg11.tv360.bitel.com.pe/bitel/visionsur/chunks.m3u8
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",Tele Agro 🇻🇳 Cuzco
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",ZeleveTv 🇻🇳 Pasco
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763742087899/905fdb5ba96b_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",PeruAniSima 🇻🇳 HuancaYork 1920X1080p
-https://live-evg7.tv360.bitel.com.pe/bitel/peruanisimaSRT/chunks.m3u8?uid=12051151
+
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756016632/cbba6ab460ed_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",Tv Wanka 🇻🇳 HuancaYork 1280x720p
 https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/chunks.m3u8
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763755361149/dde3d837c4f9_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",UniTel Tv 🇻🇳 HuancaYork 1920x1080p
-https://live-evg11.tv360.bitel.com.pe/bitel/uniteltvSRT/chunks.m3u8
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/27/02/1764184523436/aa66fc734703_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",La Cajita Musical 🇻🇳 Junin 1280x720p
-https://live-evg7.tv360.bitel.com.pe/bitel/lacajitamusical/chunks.m3u8?uid=12051151
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763741020396/5294587ef8de_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",TarpuyTv 🇻🇳 Junin 1280x720p
 https://live-evg7.tv360.bitel.com.pe/bitel/tarpuytvSRT/chunks.m3u8?uid=12051151
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763741405847/bb8ae37bb914_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",TvO+ 🇻🇳 Junin 1088x614p
@@ -445,5 +443,6 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
+
 
 
