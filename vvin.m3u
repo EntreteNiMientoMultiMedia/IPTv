@@ -311,6 +311,9 @@ https://live-evg18.tv360.bitel.com.pe/bitel/dunastv/chunks.m3u8
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756219606/1cd5e21414a5_480_270.png" group-title="Para variar 🗿🌊 de la Costa",Eco 🇻🇳 Ica 1280x720p
 https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/chunks.m3u8
 
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763742874364/fe3f4e3d734d_480_270.png" group-title="Películas & Series 🎥📽️🎞️",FillkaTv 🇻🇳 Chiclayo 1920x1080p
+https://live-evg5.tv360.bitel.com.pe/bitel/fillka/chunks.m3u8?uid=12051151
+
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756394529/5e70bc4bd79c_480_270.png" group-title="Para variar 🗿🌊 de la Costa",G Tv 🇻🇳 Pisco 1280x720p
 https://live-evg18.tv360.bitel.com.pe/bitel/gtvpiscohls/chunks.m3u8
 
@@ -563,9 +566,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/00/1763744760812/c614e981aa8c_480_270.png" group-title="Películas & Series 🎥📽️🎞️",Creo Latino 🇻🇳 1280x720p
 https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/chunks.m3u8?uid=12051151
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763742874364/fe3f4e3d734d_480_270.png" group-title="Películas & Series 🎥📽️🎞️",FillkaTv 🇻🇳 1920x1080p
-https://live-evg5.tv360.bitel.com.pe/bitel/fillka/chunks.m3u8?uid=12051151
-
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/06/1763767508311/091c15dae43e_480_270.png" group-title="Películas & Series 🎥📽️🎞️",FMH Películas 🇻🇳 1280x720p
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/06/1763767508311/091c15dae43e_480_270.png" group-title="Películas & Series 🎥📽️🎞️",FMH Películas 🇻🇳 854x480p
@@ -574,6 +574,9 @@ https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_480p/c
 #EXTINF================================================================================================================================================================================================================================================================
 
 #EXTINF: tvg-logo="https://i.imgur.com/Kgjfd3J.png" group-title="Competencia",Canal Claro 🇲🇽 1280x720p
+https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
+
+#EXTINF: tvg-logo="https://img.onesignal.com/permanent/d06b9ca0-29c7-4577-b943-0ccc2296219a/Tu7HBEpfSTWvBwK79mUr_c6590db6-61f1-4548-9de5-ad662e8cd4f0.png" group-title="Competencia",Canal Claro 🇲🇽 1280x720p
 https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
 
 #EXTINF================================================================================================================================================================================================================================================================
