@@ -215,20 +215,23 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="" group-title="Chasqui 🇵🇪 ",Nativa 🇻🇳 1280x720p
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763757481891/33b0867d116c_480_270.png" group-title="Chasqui 🇵🇪 ",Nativa 🇻🇳 1280x720p
 https://live-evg5.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8?uid=12051151
-#EXTINF: tvg-logo="" group-title="Chasqui 🇵🇪 ",Nativa 🇻🇳 1280x720p
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763744029840/6d8216fc7771_480_270.png" group-title="Chasqui 🇵🇪 ",Nativa 🇻🇳 1280x720p
 https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/chunks.m3u8?uid=12051151
-#EXTINF: tvg-logo="" group-title="Chasqui 🇵🇪 ",Creo 🇻🇳 1280x720p
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/02/1763754326389/d90f463eb27c_480_270.png" group-title="Chasqui 🇵🇪 ",Creo 🇻🇳 1280x720p
 https://live-evg5.tv360.bitel.com.pe/bitel/creosrt/chunks.m3u8?uid=12051151
-#EXTINF: tvg-logo="" group-title="Chasqui 🇵🇪 ",Creo+ 🇻🇳 1280x720p
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763742182307/93df7a94018a_480_270.png" group-title="Chasqui 🇵🇪 ",Creo+ 🇻🇳 1280x720p
 https://live-evg18.tv360.bitel.com.pe/bitel/CreomasSRT/chunks.m3u8
-#EXTINF: tvg-logo="https://i.imgur.com/8ZiNoEa.png" group-title="Chasqui 🇵🇪 ",MilenialTV ✅✔️ 1920x1080p
+
+#EXTINF: tvg-logo="https://www.milenial.news/images/advert-box.png" group-title="Chasqui 🇵🇪 ",MilenialTV ✅✔️ 1920x1080p
 https://www.milenial.news/salida/sd/milenial.m3u8
 https://www.milenial.news/salida/milenial.m3u8
-#EXTINF: tvg-logo="https://i.imgur.com/8ZiNoEa.png" group-title="Chasqui 🇵🇪 ",MilenialTV 🇻🇳 1920x1080p
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763743622668/a4a9386efcd8_480_270.png" group-title="Chasqui 🇵🇪 ",MilenialTV 🇻🇳 1920x1080p
 https://live-evg5.tv360.bitel.com.pe/bitel/milenial/chunks.m3u8?uid=12051151
-#EXTINF: tvg-logo="" group-title="Chasqui 🇵🇪 ",NeoTV 🇻🇳 1280x720p
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/00/1763745678843/c0a44cbe6005_480_270.png" group-title="Chasqui 🇵🇪 ",NeoTV 🇻🇳 1280x720p
 https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/chunks.m3u8?uid=12051151
 
 #EXTINF================================================================================================================================================================================================================================================================
@@ -458,6 +461,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
+
 
 
 
