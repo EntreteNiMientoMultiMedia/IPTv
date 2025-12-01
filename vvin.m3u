@@ -290,7 +290,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/visionsur/chunks.m3u8
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",Andina 🇻🇳 Ayacucho
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",AntenaSur 🇻🇳 Puno
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",AtlantisTv 🇻🇳 Ayachucho
-#EXTINF tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",AuraTv 🇻🇳 Cajamarca
+#EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",AuraTv 🇻🇳 Cajamarca
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",Bella Abanquina 🇻🇳 Apurimac
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",CajamarcaTv 🇻🇳 Cajamarca
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",Canal M 🇻🇳 Apurimac
@@ -439,6 +439,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
+
 
 
 
