@@ -300,6 +300,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/visionsur/chunks.m3u8
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",MegaVisión 45 🇻🇳 Cajamarca
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",QoscoTimes 🇻🇳 Cuzco
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",RTP 🇻🇳 Puno
+#EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",Rumba 🇻🇳 Huánuco
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",Tele Agro 🇻🇳 Cuzco
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",ZeleveTv 🇻🇳 Pasco
 
@@ -352,9 +353,6 @@ https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/chunks.m3u8?uid=12051151
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/00/1763745372201/bdbc8bbe383c_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",Radio ImperialTv 🇻🇳 Huancavelica 1920x1080p
 https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/chunks.m3u8?uid=12051151
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763743675875/d035bf05c292_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",Rumba 🇻🇳 Huánuco 1920x1080p
-https://live-evg7.tv360.bitel.com.pe/bitel/rumba/chunks.m3u8?uid=12051151
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/176375611366/7ebc6261d5d5_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",Solar TeleVisión 🇻🇳 Apurimac 1920x1080p
 https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/chunks.m3u8
@@ -437,6 +435,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
+
 
 
 
