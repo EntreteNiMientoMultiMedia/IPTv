@@ -541,13 +541,24 @@ https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="" group-title="Infantiles 👼🏻",FMH Kids 🇻🇳 1280x720p
+#EXTINF: tvg-logo="" group-title="Infantiles 👼🏻",Chiki Toonz 🇻🇳 
+#EXTINF: tvg-logo="" group-title="Infantiles 👼🏻",Anima Kids 🇻🇳 
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/06/1763767524667/016be71abc86_480_270.png" group-title="Infantiles 👼🏻",FMH Kids 🇻🇳 1280x720p
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/chunks.m3u8
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/06/1763767524667/016be71abc86_480_270.png" group-title="Infantiles 👼🏻",FMH Kids 🇻🇳 854x480p
+https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_480p/chunks.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763742815961/56bd7ccd2092_480_270.png" group-title="Infantiles 👼🏻",PekeTv 🇻🇳 1280x720p
+https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/chunks.m3u8?uid=12051151
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="" group-title="Películas & Series 🎥📽️🎞️",FMH Películas 🇻🇳 1280x720p
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/06/1763767508311/091c15dae43e_480_270.png" group-title="Películas & Series 🎥📽️🎞️",FMH Películas 🇻🇳 1280x720p
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/06/1763767508311/091c15dae43e_480_270.png" group-title="Películas & Series 🎥📽️🎞️",FMH Películas 🇻🇳 854x480p
+https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_480p/chunks.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
+
 
