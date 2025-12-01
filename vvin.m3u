@@ -389,7 +389,7 @@ https://live-evg18.tv360.bitel.com.pe/bitel/cnccajamarca/chunks.m3u8
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/27/02/1764185354697/a075ea896900_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",CNH Tv 🇻🇳 Huánuco 1280x720p
 https://live-evg18.tv360.bitel.com.pe/bitel/cnhSRT/chunks.m3u8
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/02/1763755121337/a1a54811719e_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",CosiTel 🇻🇳 Puno
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/02/1763755121337/a1a54811719e_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",CosiTel 🇻🇳 Puno 1920x1080p
 https://live-evg18.tv360.bitel.com.pe/bitel/cositeljuliaca/chunks.m3u8
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763741144205/d023be4cae33_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",CumbreTv 🇻🇳 Pasco 1920x1080p
@@ -413,10 +413,10 @@ https://live-evg5.tv360.bitel.com.pe/bitel/inkavisionSRT/chunks.m3u8?uid=1205115
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763743768616/66521bb156e8_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",KBO 🇻🇳 Quillabamba 1280x720p
 https://live-evg18.tv360.bitel.com.pe/bitel/kbo/chunks.m3u8
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/22/1763739971164/3d280671bdb5_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",MásTv 🇻🇳 Pasco
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/22/1763739971164/3d280671bdb5_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",MásTv 🇻🇳 Pasco 1280x720p
 https://live-evg11.tv360.bitel.com.pe/bitel/mastv/chunks.m3u8
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/22/1763740000605/f907635b8192_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",MediaTv 🇻🇳 Ayacucho
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/22/1763740000605/f907635b8192_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",MediaTv 🇻🇳 Ayacucho 1280x720p
 https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/chunks.m3u8?uid=12051151
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756242951/22b2884425e6_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",MegaTv 🇻🇳 Pasco 1920x1080p
@@ -428,16 +428,16 @@ https://live-evg5.tv360.bitel.com.pe/bitel/monitor/chunks.m3u8?uid=12051151
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/176374373959/b1e24b6a2ae3_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",QollasuyoTv 🇻🇳 Juliaca 1280x720p
 https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/chunks.m3u8?uid=12051151
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/27/02/1764185484909/6a7a64fa11c5_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",QoscoTimes 🇻🇳 Cuzco
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/27/02/1764185484909/6a7a64fa11c5_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",QoscoTimes 🇻🇳 Cuzco 1092x614p
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8?uid=12051151
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/00/1763745372201/bdbc8bbe383c_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",Radio ImperialTv 🇻🇳 Huancavelica 1920x1080p
 https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/chunks.m3u8?uid=12051151
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/176375572069/635339103b1d_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",RTP 🇻🇳 Puno
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/176375572069/635339103b1d_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",RTP 🇻🇳 Puno 1280x720p
 https://live-evg7.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8?uid=12051151
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763743675875/d035bf05c292_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",Rumba 🇻🇳 Huánuco
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763743675875/d035bf05c292_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",Rumba 🇻🇳 Huánuco 1920x1080p
 https://live-evg7.tv360.bitel.com.pe/bitel/rumba/chunks.m3u8?uid=12051151
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/176375611366/7ebc6261d5d5_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",Solar TeleVisión 🇻🇳 Apurimac 1920x1080p
@@ -458,7 +458,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/chunks.m3u8
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763741338756/e830dfb6f882_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",WayraTv 🇻🇳 Cuzco 1280x720p
 https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763740870958/59a19a78356c_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",ZeleveTv 🇻🇳 Pasco
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763740870958/59a19a78356c_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",ZeleveTv 🇻🇳 Pasco 12080x720p
 https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/chunks.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
@@ -479,7 +479,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/chunks.m3u8?uid=12051151
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/08/05/1746658366448/22d5f117b2db_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",MielTv 🇻🇳 Tarma 1920x1080p
 https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/chunks.m3u8?uid=12051151
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/06/07/05/1749249581832/abf8e713b94e_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Rio TeleVisión 🇻🇳 Aucayacu
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/06/07/05/1749249581832/abf8e713b94e_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Rio TeleVisión 🇻🇳 Aucayacu 1920x1080p
 https://live-evg7.tv360.bitel.com.pe/bitel/riotvSRT/chunks.m3u8?uid=12051151
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830668625/e84e7ec96a4a_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Selvatica 🇻🇳 Pucallpa 1280x720p
@@ -500,7 +500,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/chunks.m3u8?uid=12051151
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/21/03/1747773190679/4fb60cbb4638_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Tropical 🇻🇳 Tarapoto 1920x1080p
 https://live-evg11.tv360.bitel.com.pe/bitel/tropical/chunks.m3u8
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/03/21/21/1742565867775/9313a6713a88_480_270.png" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",TvMar 🇻🇳 Madre De Dios
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/03/21/21/1742565867775/9313a6713a88_480_270.png" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",TvMar 🇻🇳 Madre De Dios 1920x1080p
 https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/chunks.m3u8
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830323254/643b968748c2_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",UcayaliTv 🇻🇳 Ucayali 1920x1080p
@@ -512,7 +512,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/utv/chunks.m3u8
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829572323/54119057f99c_480_270.png" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Uranio 🇻🇳 Tingo Maria 1920x1080p
 https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/chunks.m3u8
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830432152/1906c9d73b57_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Via 🇻🇳 Tarapoto
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830432152/1906c9d73b57_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Via 🇻🇳 Tarapoto 1280x720p
 https://live-evg11.tv360.bitel.com.pe/bitel/viatvSRT/chunks.m3u8
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/12/22/173401728675/a4cd78baf453_480_270.png" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",YuriVisión 🇻🇳 Loreto 1920x1080p
@@ -520,21 +520,21 @@ https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/chunks.m3u8?uid=1205115
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://i.imgur.com/Kgjfd3J.png" group-title="Competencia",Canal Claro (720p) 
+#EXTINF: tvg-logo="https://i.imgur.com/Kgjfd3J.png" group-title="Competencia",Canal Claro
 https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
 
-#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DirecTV Sports (1080p) 🇺🇸
+#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DirecTV Sports 🇺🇸
 http://38.183.182.166:8000/play/a125/index.m3u8
 
-#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
+#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/16/02/1744744885980/fe2d329ae60f_480_270.png" group-title="Musicales",NovaTv 🇻🇳 
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/16/02/1744744885980/fe2d329ae60f_480_270.png" group-title="Musicales",NovaTv 🇻🇳 1280x720p
 https://live-evg7.tv360.bitel.com.pe/bitel/NovaSRT/chunks.m3u8?uid=12051151
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835622757/0fb19a3b961d_480_270.jpg" group-title="Musicales",Top Latino 🇻🇳 
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835622757/0fb19a3b961d_480_270.jpg" group-title="Musicales",Top Latino 🇻🇳 720x404p
 https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
