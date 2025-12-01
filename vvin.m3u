@@ -134,17 +134,25 @@ https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m
 
 #EXTINF: tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Latina Noticias 🇵🇪 ",Latina Noticias ✅✔️ 1920x1080p
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8?dpssid=b24027682816927a2a8b833f&sid=ba5t1l1xb215171014026927a2aa29290&ndvc=0
+
 #EXTINF: tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Latina Noticias 🇵🇪 ",Latina Noticias 🇻🇳 1280x720p
 https://live-evg11.tv360.bitel.com.pe/bitel/latinanoticias_abr/bitel/latinanoticias_720p/chunks.m3u8
+#EXTINF: tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Latina Noticias 🇵🇪 ",Latina Noticias 🇻🇳  1024x576p
+https://live-evg11.tv360.bitel.com.pe/bitel/latinanoticias_abr/bitel/latinanoticias_480p/chunks.m3u8
+
 #EXTINF: tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Latina Noticias 🇵🇪 ",Latina Noticias 💸 1280x720p
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINANOTI/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINANOTI_stream_er&_cdn_session=3407351509&_cdn_token=b507c28e8a595c6b4e06161d1c2983b1b48255ac
 #EXTINF: tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Latina Noticias 🇵🇪 ",Latina Noticias 💸 1024x576p
+
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/LATINANOTI/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINANOTI_stream_er&_cdn_session=3419791539&_cdn_token=31f7d0cfb9f1d267020dc7ba4130661512e96697
 #EXTINF: tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Latina Noticias 🇵🇪 ",Latina Noticias ❓❔ 1920x1080p
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 
+#EXTINF================================================================================================================================================================================================================================================================
+
 #EXTINF: tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Latina Clásicos 🇵🇪 ",Latina Clasicos ✅✔️ 1920x1080p
 https://jireh-6-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream0/chunks.m3u8?dpssid=b24900835076927a23736b54&sid=ba5t1l1xb217436165296927a2389e5f1&ndvc=0
+
 #EXTINF: tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Latina Clásicos 🇵🇪 ",Latina Clasicos ❓❔ 1920x1080p
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 
@@ -471,6 +479,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
+
 
 
 
