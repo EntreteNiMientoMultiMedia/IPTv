@@ -296,9 +296,6 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763757481891/33b0867d116c_480_270.png" group-title="Chasqui 🇵🇪 ",Nativa 🇻🇳 1280x720p
 https://live-evg5.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8?uid=12051151
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763744029840/6d8216fc7771_480_270.png" group-title="Chasqui 🇵🇪 ",Nativa 🇻🇳 1280x720p
-https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/chunks.m3u8?uid=12051151
-
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/02/1763754326389/d90f463eb27c_480_270.png" group-title="Chasqui 🇵🇪 ",Creo 🇻🇳 1280x720p
 https://live-evg5.tv360.bitel.com.pe/bitel/creosrt/chunks.m3u8?uid=12051151
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763742182307/93df7a94018a_480_270.png" group-title="Chasqui 🇵🇪 ",Creo+ 🇻🇳 1280x720p
@@ -528,6 +525,9 @@ https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/chunks.m3u8?uid=12051151
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/08/05/1746658366448/22d5f117b2db_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",MielTv 🇻🇳 Tarma 1920x1080p
 https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/chunks.m3u8?uid=12051151
 
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763744029840/6d8216fc7771_480_270.png" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Nativa 🇻🇳 1920x1080p
+https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/chunks.m3u8?uid=12051151
+
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/06/07/05/1749249581832/abf8e713b94e_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Rio TeleVisión 🇻🇳 Aucayacu 1920x1080p
 https://live-evg7.tv360.bitel.com.pe/bitel/riotvSRT/chunks.m3u8?uid=12051151
 
@@ -635,6 +635,7 @@ https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_480p/c
 https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
 
 #EXTINF================================================================================================================================================================================================================================================================
+
 
 
 
