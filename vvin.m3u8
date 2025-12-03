@@ -643,6 +643,14 @@ https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_480p/c
 
 #EXTINF================================================================================================================================================================================================================================================================
 
+#EXT-X-MEDIA: http://tv.m3uts.xyz/get.php?username=m&password=m&type=m3u8_plus&output=ts
+
+#EXTINF================================================================================================================================================================================================================================================================
+
+#EXT-X-STREAM-INF: http://tv.m3uts.xyz/get.php?username=m&password=m&type=m3u8_plus&output=ts
+
+#EXTINF================================================================================================================================================================================================================================================================
+
 #EXTINF: tvg-logo="https://img.onesignal.com/permanent/d06b9ca0-29c7-4577-b943-0ccc2296219a/Tu7HBEpfSTWvBwK79mUr_c6590db6-61f1-4548-9de5-ad662e8cd4f0.png" group-title="Competencia",Canal Claro 🇲🇽 1280x720p
 https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
 
